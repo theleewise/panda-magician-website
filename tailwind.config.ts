@@ -1,4 +1,6 @@
 import type { Config } from "tailwindcss";
+import colors from "tailwindcss/colors";
+
 
 const config: Config = {
   content: [
@@ -7,10 +9,23 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    // colors: {
+    //   primary: colors.green,
+    // },
+    container: {
+      center: true,
+      padding: '2rem',
+      screens: {
+        sm: '600px',
+        md: '728px',
+        lg: '984px',
+      },
+    },
     extend: {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: colors.green,
       },
     },
   },

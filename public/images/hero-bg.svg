@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2146 744">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        filter: url(#g);
+      }
+
+      .cls-7 {
+        filter: url(#e);
+      }
+    </style>
+    <mask id="mask" x="-140" y="-177" width="2440" height="1273.9" maskUnits="userSpaceOnUse">
+      <g id="b">
+        <path id="a" class="cls-3" d="M-140-177h2440v921H-140V-177Z"/>
+      </g>
+    </mask>
+    <radialGradient id="radial-gradient" cx="823.6" cy="621.9" fx="823.6" fy="621.9" r=".8" gradientTransform="translate(573846.6 759309.5) rotate(-90) scale(921 -921)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d5ffdf"/>
+      <stop offset=".2" stop-color="#75f755"/>
+      <stop offset="1" stop-color="#0f172a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="e" x="-22.6%" y="-43.5%" width="145.2%" height="187%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="50"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="822.2" y1="622.2" x2="822.3" y2="621.4" gradientTransform="translate(-544276.1 215313.8) scale(664 -345)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#55f755"/>
+      <stop offset="1" stop-color="#c4f163"/>
+    </linearGradient>
+    <filter id="g" x="-32.5%" y="-35.1%" width="165.1%" height="170.3%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="50"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="821.6" y1="622.2" x2="821.9" y2="621.3" gradientTransform="translate(-377807 265813) scale(461 -427)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5fe85f"/>
+      <stop offset="1" stop-color="#63f16c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <g class="cls-1">
+        <g>
+          <path class="cls-4" d="M-140-177h2440v921H-140V-177Z"/>
+          <g class="cls-7">
+            <path class="cls-5" d="M1835.7,604.8c-3.7-3-8.8-3.6-13-1.6-4.3,2-7,6.4-7,11.1v98.6h-430.4c-6.8,0-12.3,5.5-12.3,12.3v98.6c0,6.8,5.5,12.3,12.3,12.3h430.4v98.6c0,4.8,2.7,9.1,7,11.1,4.3,2,9.4,1.4,13-1.6l196.7-160.2c2.9-2.3,4.5-5.9,4.5-9.6,0-3.7-1.7-7.2-4.5-9.6l-196.7-160.2h0Z"/>
+          </g>
+          <g class="cls-6">
+            <polygon class="cls-2" points="773 97 1234 466 950 524 773 97"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
