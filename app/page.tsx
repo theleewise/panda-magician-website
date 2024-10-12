@@ -16,7 +16,7 @@ export default async function Home() {
 
         <div id="shows" className="py-20 bg-neutral-950 text-white">
           <div className="container">
-            <h2 className="text-6xl font-bold mb-6">Upcoming Appearances</h2>
+            <h2 className="text-6xl font-bold mb-6">Upcoming Public Shows</h2>
             <EventsListing items={events} />
           </div>
         </div>

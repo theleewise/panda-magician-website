@@ -25,7 +25,7 @@ export default function Hero(){
             lineHeight: '0.8',
           }}>Panda</h1>
         </div>
-        <p className="text-2xl mt-0 relative">Proident ad sit adipisicing est cillum in reprehenderit magna quis minim pariatur sunt.</p>
+        <p className="text-3xl md:text-6xl mt-0 relative">The Psychic Prestidigitator</p>
       </div>
     </div>
   );
